@@ -84,7 +84,7 @@ I thrive on bridging the gap between data science and infrastructure management.
 ![Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Generative%20AI%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![OpenEDG Python Institute: Programming with Python Professional Certificate](https://img.shields.io/badge/OpenEDG%20Python%20Institute%3A%20Programming%20with%20Python%20Professional%20Certificate-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Connect with Me:
+#### Find Me also here:👇🏼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-javan/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/arashjavan)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/143ec599-b5f0-483e-b5c5-61914e8f90e5)
