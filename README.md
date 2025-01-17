@@ -91,4 +91,5 @@ I thrive on bridging the gap between data science and infrastructure management.
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/6arash6)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/arash-javan-mojarad)
 
+![](https://komarev.com/ghpvc/?username=6arash6)
 
