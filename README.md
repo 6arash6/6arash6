@@ -23,7 +23,7 @@ I thrive on bridging the gap between data science and infrastructure management.
 #### Skills:
 - **Cloud Platforms**: OpenStack, Azure, AWS, Google Cloud, Oracle Cloud
 - **Containerization & Orchestration**: Docker, Kubernetes, OpenShift
-- **DevOps & IaC**: Ansible, Terraform, CI/CD pipelines, GitOps
+- **DevOps & IaC**: Ansible, Terraform, CI/CD pipelines, GitOps, Airflow
 - **Programming**: Python, R, C++, Shell Scripting
 - **Databases**: SQL, NoSQL, Vector Databases
 - **Agile Methodologies**: Scrum, Jira
