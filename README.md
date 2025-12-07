@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### About Me:
+#### 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒:
 I thrive on bridging the gap between data science and infrastructure management. I'm passionate about learning and always excited to connect with like-minded professionals who share a love for innovation and technology.
 
 🌱 Currently learning more about AI and machine learning.
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6arash6&hide_progress=true)
+-->
 
-#### Skills:
+#### 𝓢𝓴𝓲𝓵𝓵𝓼:
 - **Cloud Platforms**: OpenStack, Azure, AWS, Google Cloud, Oracle Cloud
 - **Containerization & Orchestration**: Docker, Kubernetes, OpenShift
 - **DevOps & IaC**: Ansible, Terraform, CI/CD pipelines, GitOps, Airflow
@@ -34,7 +35,7 @@ I thrive on bridging the gap between data science and infrastructure management.
 - **Data Science & ML**: BigQuery ML, Databricks, Machine Learning APIs
 - **Data Engineering**: Azure Data Factory, Azure Data Lake, Azure Cosmos DB, Azure SQL, Azure Databricks
 
-#### Find Me also here:👇🏼
+#### :bulb: ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤 & 𝔹𝕒𝕕𝕘𝕖𝕤:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-javan/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/arashjavan)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/143ec599-b5f0-483e-b5c5-61914e8f90e5)
