@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I thrive on bridging the gap between data science and infrastructure management. I'm passionate about learning and always excited to connect with like-minded professionals who share a love for innovation and technology.
 
 🌱 Currently learning more about AI and machine learning.
-<!--
-![Top Langs](https://github-readme-stats-1-opal.vercel.app/api/top-langs/?username=6arash6&hide_progress=true)
--->
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=6arash6&hide_progress=true)
+
 
 #### 𝓢𝓴𝓲𝓵𝓵𝓼:
 - **Cloud Platforms**: OpenStack, Azure, AWS, Google Cloud, Oracle Cloud
